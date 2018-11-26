@@ -1,0 +1,10 @@
+Cuaderno;Fri Nov 16 00:34:00 CLST 2018
+Taza;Fri Nov 16 00:48:35 CLST 2018
+Lapiz;Fri Nov 16 00:34:30 CLST 2018
+Mochila;Fri Nov 16 00:35:50 CLST 2018
+Celular;Fri Nov 16 00:48:43 CLST 2018
+Mesa;Sun Nov 18 21:41:32 CLST 2018
+Silla;Sun Nov 18 21:41:39 CLST 2018
+Monitor PC;Sun Nov 18 21:42:02 CLST 2018
+Ropero;Mon Nov 19 00:08:02 CLST 2018
+Libro;Mon Nov 26 12:25:26 CLST 2018
